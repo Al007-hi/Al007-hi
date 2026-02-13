@@ -1,77 +1,154 @@
-# 👋 Hola, soy Alberto Peña Franco
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Alberto%20Pe%C3%B1a%20Franco&fontSize=35&fontColor=ffffff"/>
 
-### 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
-*Instituto Luis Suñer Sanchis | 2026
+# Al007-hi
 
----
+-🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
+-🏫 IES Luis Suñer Sanchis  
+-📍 Valencia, España  
+-📧 albertoinfo4b@gmail.com  
+-🐙 GitHub: https://github.com/Al007-hi  
 
-## 🧑‍💻 Sobre mí
 
-Soy técnico en SMR con experiencia en montaje y reparación de equipos, administración de redes locales y soporte informático. Me apasiona la automatización de tareas mediante scripts y la virtualización de sistemas. Busco mi primera oportunidad laboral para seguir creciendo profesionalmente.
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Alberto+Peña+Franco;Administrador+de+Sistemas+en+formación;Apasionado+por+la+tecnolog%C3%ADa" />
 
----
 
-## 🛠️ Habilidades Técnicas
 
-- Sistemas Operativos: Windows (10/11, Server), Linux (Ubuntu, Debian)
-- Redes: Configuración de switches/routers, TCP/IP, DHCP, DNS
-- Hardware: Montaje, diagnóstico y reparación de equipos
-- Virtualización: VirtualBox, VMware
-- Ofimática: Suite Microsoft Office, LibreOffice
-- Scripting: PowerShell, Bash (nivel básico)
-- Control de versiones: Git, GitHub
-- Programación con Python
+## 🚀 Sobre mí
+
+Soy estudiante del Grado Medio de Sistemas Microinformáticos y Redes, con una gran motivación por el mundo de la informática y las redes. Me considero un alumno responsable, curioso y con iniciativa, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades técnicas.
+
+Durante mi formación en SMR he desarrollado competencias prácticas en montaje y mantenimiento de equipos, administración de sistemas Windows y Linux, redes locales y automatización de tareas mediante scripts.
 
 ---
 
-## 📁 Proyectos Destacados
+## Tecnologías y Herramientas 🧰
 
-### [🔧 Scripts de Automatización](https://github.com/tuusuario/scripts-smr)
-*PowerShell · Bash*
-> Colección de scripts para automatizar tareas comunes en entornos Windows y Linux: copias de seguridad, configuración de red, limpieza de sistema.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell,python,js,html,css,git,github,vscode" />
+</p>
 
-### [🖥️ Guía de Montaje de PC](https://github.com/tuusuario/montaje-pc-gaming)
-*Hardware · Documentación técnica*
-> Tutorial paso a paso con fotos del montaje completo de un equipo gaming, incluyendo lista de componentes y resolución de problemas comunes.
-
-### [🌐 Configuración de Servidor DHCP](https://github.com/tuusuario/servidor-dhcp)
-*Windows Server · Redes*
-> Implementación y configuración de un servidor DHCP en Windows Server con ámbito, reservas y opciones adicionales.
-
-### [📊 Página Web Estática](https://github.com/tuusuario/mi-primera-web)
-*HTML · CSS*
-> Proyecto de página web sencilla creada para la asignatura de Aplicaciones Web.
-
----
-
-## 📜 Certificaciones
-
-- 🟢 **Cisco Networking Academy**: Introduction to Networks (pendiente/obtenida)
-- 🟢 **Google Actívate**: Curso de Informática Básica
-- 🟢 **Seguridad en Internet**: INCIBE (Instituto Nacional de Ciberseguridad)
+**Tecnologías destacadas:**
+- 🪟 Windows / Windows Server  
+- 🐧 Linux  
+- ⚡ PowerShell & Bash  
+- 🐍 Python (scripts básicos y automatización)  
+- 🌐 HTML & CSS  
+- 🟨 JavaScript (básico)  
+- 🛠️ Visual Studio Code  
+- 🔧 Git & GitHub  
+- 🌍 Redes Cisco (fundamentos)  
 
 ---
 
-## 💼 Experiencia (Prácticas / Voluntariado)
+## Habilidades Técnicas (SMR)
 
-**Técnico Informático en prácticas**  
-*[Empresa] | [Periodo]*  
-- Instalación y configuración de equipos para nuevos empleados.
-- Soporte a usuarios en incidencias de software y hardware.
-- Mantenimiento de inventario de equipos informáticos.
+### Sistemas Operativos 💻
+- Instalación y configuración de Windows y Linux   
+- Gestión de usuarios y permisos  
+- Virtualización con VirtualBox  
 
-**Soporte técnico (voluntariado)**  
-*[Asociación/Evento] | [Periodo]*  
-- Asistencia técnica durante evento solidario (montaje de equipos, resolución de incidencias).
+### Redes 🌐
+- Configuración de redes LAN  
+- Direccionamiento IP y subredes  
+- Configuración de DHCP y DNS  
+- Resolución de problemas de conectividad  
+- Fundamentos de redes Cisco  
+
+### Hardware 🔧
+- Montaje y mantenimiento de equipos informáticos  
+- Diagnóstico y reparación de averías  
+- Sustitución de componentes  
+- Optimización de rendimiento  
+
+### Automatización y Scripts
+- Scripts en PowerShell y Bash  
+- Copias de seguridad automatizadas  
+- Limpieza y mantenimiento del sistema  
+
+###  Desarrollo Web Básico
+- HTML5 y CSS3  
+- Creación de páginas web estáticas y dinamicas
 
 ---
 
-## 📫 Contacto
+## 📂 Proyectos Destacados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tuusuario)
-[![Correo](https://img.shields.io/badge/Email-Contacto-red)](mailto:tu.email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-green)](https://tusitio.com)
+### Sistemas Operativos en Redes (SOR) 
+**PowerShell · Bash**  
+Colección de scripts para automatizar tareas comunes en entornos Windows y Linux.  
+
+🔗 https://github.com/Al007-hi/scripts-smr  
+
+---  
+
+### Servicios en Redes  
+**Redes de servidores**  
+Implementación de un servidor DHCP con ámbito y reservas.  
+
+🔗 https://github.com/Al007-hi/servidor-dhcp  
 
 ---
 
-⭐ *Este README forma parte de mi currículum interactivo en GitHub. Los proyectos están disponibles para consulta.*
+### Aplicaciones Web
+**HTML · CSS**  
+Paginas web y documentaciones:
+
+🔗 https://github.com/Al007-hi/mi-primera-web  
+
+---
+
+## Experiencia en Prácticas 💼
+
+### 🏢 Cabitrans — Oficinas de ventas y gestión de paquetería
+**Funciones realizadas:**
+- Colaboración en el departamento de ventas junto al director, Ginés Balaguer  
+- Gestión y organización de envíos diarios  
+- Resolución de incidencias logísticas (búsqueda de paquetes extraviados)  
+- Apoyo en tareas administrativas  
+
+Esta experiencia me permitió mejorar mis habilidades de trabajo en equipo, organización y resolución de problemas en entornos reales.
+
+---
+
+## Formación Académica 🎓
+Grado Medio en Sistemas Microinformáticos y Redes (SMR) — En curso  
+IES Luis Suñer Sanchis  
+
+---
+
+## Certificaciones y Logros 📜
+- 🎓 Técnico en SMR (en curso)
+- 🖧 Preparación para certificaciones Cisco Networking Essentials  
+- 🇬🇧 Nivel de Inglés A2  
+
+---
+
+## Competencias Profesionales 📈
+✔️ Trabajo en equipo  
+✔️ Resolución de problemas  
+✔️ Aprendizaje rápido  
+✔️ Organización y responsabilidad  
+✔️ Atención al detalle  
+
+---
+
+## Objetivo Profesional
+Seguir formándome en administración de sistemas y redes para convertirme en un profesional del sector IT.
+
+---
+
+## ✨ Badge de perfil
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Al007-hi&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
+</p>
+
+---
+
+## 🖥️ GIF decorativo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=header"/>
