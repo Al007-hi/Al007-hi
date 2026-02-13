@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Alberto+Peña+Franco;Administrador+de+Sistemas+en+formación;Apasionado+por+la+tecnolog%C3%ADa" />
 </p>
+
 # Al007-hi
 
 -🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
