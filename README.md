@@ -1,5 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Alberto%20Pe%C3%B1a%20Franco&fontSize=35&fontColor=ffffff"/>
+<p align="center">
+  <img src="Fotogithub.gif" width="100%" />
+</p>
 
+<h1 align="center">Alberto Peña Franco</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Alberto+Peña+Franco;Administrador+de+Sistemas+en+formación;Apasionado+por+la+tecnolog%C3%ADa" />
+</p>
 # Al007-hi
 
 -🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
@@ -7,11 +14,6 @@
 -📍 Valencia, España  
 -📧 albertoinfo4b@gmail.com  
 -🐙 GitHub: https://github.com/Al007-hi  
-
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Alberto+Peña+Franco;Administrador+de+Sistemas+en+formación;Apasionado+por+la+tecnolog%C3%ADa" />
-
-
 
 ## 🚀 Sobre mí
 
